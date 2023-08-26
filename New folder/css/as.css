@@ -1,0 +1,21 @@
+
+body{
+    background-color: rgba(211, 211, 211, 0.443);
+   
+}
+
+
+
+.container{
+    background-color:white;
+    
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    height:relative;
+    padding: 50px;
+    border-radius:  20px; ;
+
+}
+
+/* input{
+    padding: 10px;
+} */
